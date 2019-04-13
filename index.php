@@ -28,7 +28,7 @@
  <?php
     $host = "macdsub1.database.windows.net";
     $user = "rahmat";
-    $pass = "Macdsub1";
+    $pass = "Macdbsub1";
     $db = "db_macd";
 
     try {
